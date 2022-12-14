@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UsamaKhurshid3240
+- 👋 Hi, I’m @UsamaKhurshid3240 (Full Stack Developer)
 - 👀 I’m interested in Web & App Development
-- 🌱 I’m currently learning ReactJs,Nextjs,Vuejs
+- 🌱 I’m currently learning Angular,ReactJs,Nextjs,Nodejs...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me usamakhurshid665@gmail.com
 
