@@ -8,7 +8,7 @@
 [![Portfolio (Netlify)](https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://usamakhurshid.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-UsamaKhurshid3240-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsamaKhurshid3240)
 [![Email](https://img.shields.io/badge/Email-usamakhurshid665%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamakhurshid665@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-[https://www.linkedin.com/in/usama-khurshid-6a74a7196]-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](linkedin:[https://www.linkedin.com/in/usama-khurshid-6a74a7196])
+[![Linkedin](https://img.shields.io/badge/Linkedin-UsamaKhurshid-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-khurshid-6a74a7196)
 
 <sub>GitHub bio · *If you are not willing to learn no one can help you, but if you are determined to learn no one can stop you.*</sub>
 
